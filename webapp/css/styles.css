@@ -1,0 +1,36 @@
+body {
+  background-color: #f0f8ff; /* Light blue fitness theme */
+  font-family: Arial, sans-serif;
+}
+
+.card {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+h4 {
+  color: #0056b3; /* Fitness-themed blue */
+}
+
+.btn-primary {
+  background-color: #28a745; /* Green for health */
+  border-color: #28a745;
+}
+
+.btn-primary:hover {
+  background-color: #218838;
+  border-color: #1e7e34;
+}
+
+.text-muted {
+  color: #6c757d;
+}
+
+a {
+  color: #0056b3;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
